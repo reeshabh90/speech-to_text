@@ -1,0 +1,13 @@
+sa-speech-to-text-demo.json
+speech-to-text-demo.json
+lib/
+AudioFile
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
